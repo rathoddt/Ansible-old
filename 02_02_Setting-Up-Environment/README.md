@@ -7,6 +7,10 @@ Installation
 `#sudo pip install ansible`
 
 
+Checking Ansible version
+
+`ansible --version`
+
 
 
 
